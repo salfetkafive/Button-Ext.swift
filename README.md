@@ -34,3 +34,10 @@ extension UIButton {
     } 
 }
 ```
+
+Замена старому коду где используется `UIEdgeInsets`
+
+warning:  `****** was deprecated in iOS 15.0: This property is ignored when using UIButtonConfiguration`
+
+
+
