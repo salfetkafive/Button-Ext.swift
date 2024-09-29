@@ -75,6 +75,7 @@ extension UIButton {
 # Обращение
 ```swift
  var button = UIButton.createButton(icon: "NameIcon", title: "Hard")
+ var button = UIButton.createButton(title: "Hard")
 ```
 Полное обращение
 ```swift
